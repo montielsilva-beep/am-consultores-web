@@ -25,3 +25,6 @@ Los estilos contemplan escritorio y móvil, pero su validación visual permanece
 5. Revisión final y fusión autorizada de la rama; el flujo existente puede desplegar al recibir cambios en main.
 
 La demostración independiente puede compartirse para revisión con el alcance autorizado por el usuario; no constituye la publicación en el dominio oficial.
+
+## Demostración compartible
+Se abrió la propuesta mediante HTML Preview para GitHub y se comprobó el renderizado del encabezado. El servicio tiene su propio entorno JavaScript; el script autónomo se encapsuló y se añadió control de inicialización única para evitar conflictos. Esto solo afecta la copia de revisión. El dominio oficial no se modificó.
