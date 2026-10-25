@@ -1,33 +1,21 @@
-# Validación de la propuesta web agroalimentaria
-Fecha: 2026-10-25 · Versión web: 0.1 · Estado: pendiente de aprobación para publicación oficial
+# Validación de la propuesta agroalimentaria
+Fecha: 2026-10-25 · Versión web 0.1 · Pendiente de aprobación para publicación oficial
 
-## Comprobado
-- Sintaxis JavaScript verificada con Node.
-- HTML analizado: un h1 por página, identificadores únicos y anclas internas existentes.
-- Ejecución del script sobre una simulación de DOM creada desde el HTML real: página principal y nueva página.
-- Cambio ES → EN → ES y restauración de los textos.
-- Selección de contratación directa e institucional desde sus enlaces.
-- Composición local del correo con modalidad, rubro y mercado seleccionados.
-- Regresión de la consulta de la página principal: funciona sin los campos nuevos.
-- No se enviaron correos ni formularios a terceros.
-- Nueva página excluida de indexación durante revisión.
+## Comprobaciones
+- Sintaxis JavaScript.
+- HTML: un h1 por página, identificadores únicos y anclas internas existentes.
+- Ejecución con DOM simulado desde el HTML de página principal y nueva página.
+- Regresión de consulta principal sin los campos nuevos.
+- Composición de mailto con modalidad, rubro y mercado, en simulación.
+- Demostración en navegador real: menú, ES/EN/ES, selección institucional y asunto correspondiente.
+- Revisión visual y de desbordamiento del contenido a 390 y 1280 px.
+- Corrección del espaciado del título al volver a español.
+- Aviso visible de borrador y noindex,nofollow.
 
-## Límites de la verificación
-La simulación verifica comportamiento y datos; no reemplaza un navegador real.
-El servidor local y la apertura del archivo local en el navegador integrado fueron bloqueados por restricciones del entorno. No se completó revisión visual local de escritorio o móvil. No se verificó la recepción del buzón corporativo.
-Los estilos contemplan escritorio y móvil, pero su validación visual permanece pendiente hasta poder abrir la demostración alojada.
+## Límites
+No se enviaron mensajes. La recepción del buzón corporativo no se verificó.
+La revisión en navegador se realizó sobre la copia autónoma de demostración mediante HTML Preview para GitHub; el servidor y la apertura de archivo local fueron bloqueados por el entorno.
+El visor es un servicio externo. La copia de demostración encapsula su JavaScript y evita doble inicialización para ser compatible con ese visor; el sitio conserva su archivo de script independiente.
 
-## Antes de publicar en el sitio oficial
-1. Aprobación expresa del texto, diseño y versión por dirección.
-2. Confirmación de disponibilidad operativa y correo corporativo.
-3. Revisión visual de escritorio y móvil y prueba en navegador real.
-4. Cambio de indexación y adición de canonical, metadatos sociales y sitemap.
-5. Revisión final y fusión autorizada de la rama; el flujo existente puede desplegar al recibir cambios en main.
-
-La demostración independiente puede compartirse para revisión con el alcance autorizado por el usuario; no constituye la publicación en el dominio oficial.
-
-## Demostración compartible
-Se abrió la propuesta mediante HTML Preview para GitHub y se comprobó el renderizado del encabezado. El servicio tiene su propio entorno JavaScript; el script autónomo se encapsuló y se añadió control de inicialización única para evitar conflictos. Esto solo afecta la copia de revisión. El dominio oficial no se modificó.
-
-## Verificación en navegador de la demostración
-Probados menú, cambio ES/EN/ES y selección institucional (modalidad y asunto). Revisado el diseño a 390 px y 1280 px: sin desbordamiento horizontal en el contenido principal. Se corrigió el espaciado del título al volver a español. La composición del correo se verificó en simulación y no se envió ningún mensaje.
+## Antes de lanzamiento oficial
+Aprobación de dirección sobre la versión exacta; confirmación de capacidad y contacto; metadatos, canonical y sitemap; cambio de indexación y fusión autorizada. El flujo de Pages se activa en main. Este trabajo no modificó esa rama.
