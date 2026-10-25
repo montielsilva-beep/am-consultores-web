@@ -28,3 +28,6 @@ La demostración independiente puede compartirse para revisión con el alcance a
 
 ## Demostración compartible
 Se abrió la propuesta mediante HTML Preview para GitHub y se comprobó el renderizado del encabezado. El servicio tiene su propio entorno JavaScript; el script autónomo se encapsuló y se añadió control de inicialización única para evitar conflictos. Esto solo afecta la copia de revisión. El dominio oficial no se modificó.
+
+## Verificación en navegador de la demostración
+Probados menú, cambio ES/EN/ES y selección institucional (modalidad y asunto). Revisado el diseño a 390 px y 1280 px: sin desbordamiento horizontal en el contenido principal. Se corrigió el espaciado del título al volver a español. La composición del correo se verificó en simulación y no se envió ningún mensaje.
