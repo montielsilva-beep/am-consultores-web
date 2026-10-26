@@ -1,12 +1,14 @@
 # Enlace para revisar con los socios
-Fecha: 2026-10-25 · Propuesta web 0.1
+Fecha: 2026-10-26 · Propuesta web 0.2
 
-[ABRIR LA DEMOSTRACIÓN](https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/d5240b805253f6e14437b2208f0e4ca56bccc2c1/preview/agroalimentario.html)
+[ABRIR EL HTML TEMPORAL ACTUALIZADO](https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/1901bf026087bb519f2970fbbdd2e7d814d9bb99/preview/agroalimentario.html)
 
-Cualquiera que reciba el enlace puede abrirlo. Muestra solo la propuesta comercial. No contiene contratos, precios ni expedientes internos.
-Incluye aviso visible de revisión. Se comparte una copia fijada al commit d5240b805253f6e14437b2208f0e4ca56bccc2c1; futuras modificaciones tendrán su propio enlace para conservar trazabilidad.
+Esta copia identifica la versión web 0.2 y queda fijada al commit 1901bf026087bb519f2970fbbdd2e7d814d9bb99.
+Mercados de destino y selector del formulario, en este orden: Canadá, Estados Unidos, México, Unión Europea, China, Japón, Corea del Sur y Centroamérica.
+Se mantiene la opción inicial “Por definir o varios destinos”. Las traducciones al inglés se actualizaron.
 
-Es una vista previa mediante HTML Preview para GitHub. No se ha publicado la oferta en el dominio oficial.
-[Solicitud de revisión y cambios](https://github.com/montielsilva-beep/am-consultores-web/pull/1).
+El enlace es abierto para quienes lo reciban. No contiene contratos, precios ni expedientes internos. Usa HTML Preview para GitHub.
+El enlace anterior conserva la versión web 0.1 para trazabilidad.
+[Solicitud de revisión](https://github.com/montielsilva-beep/am-consultores-web/pull/1).
 
-Para comentarios: indicar sección, texto actual, cambio propuesto y prioridad. Las observaciones de socios no sustituyen la aprobación explícita de publicación.
+La valoración favorable comunicada por dirección no se interpreta como autorización de lanzamiento. Se mantiene la revisión temporal previa a publicación en el dominio oficial.
