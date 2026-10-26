@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /preview/
+Disallow: /revision/
 
 Sitemap: https://aburtomontiel.com/sitemap.xml
