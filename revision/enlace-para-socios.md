@@ -1,3 +1,12 @@
+# Enlace vigente de revisión · versión web 0.4
+Fecha: 2026-11-01. Estado: pendiente de aprobación para publicación.
+
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/2c1f289ffb8a81b6f01f7c0cc23e9ae9467fa13a/preview/implementacion-agroalimentaria-v0.4.html
+
+Cambios: alcance preciso en sistemas agroalimentarios y forestales; opción Forestal y agroforestal; traducción inglesa coherente. Verificado en navegador: textos, menús y cambio de idioma. JavaScript: comprobación de sintaxis satisfactoria. Diseño y ocho mercados conservados. Turberas en análisis interno, sin promesa pública de servicio especializado.
+
+## Antecedente conservado
+
 # Enlace de revisión: Unidad de Implementación Agroalimentaria
 Fecha: 2026-11-01 · Propuesta web 0.3
 
