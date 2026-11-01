@@ -1,14 +1,11 @@
-# Enlace para revisar con los socios
-Fecha: 2026-10-26 · Propuesta web 0.2
+# Enlace de revisión: Unidad de Implementación Agroalimentaria
+Fecha: 2026-11-01 · Propuesta web 0.3
 
-[ABRIR EL HTML TEMPORAL ACTUALIZADO](https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/1901bf026087bb519f2970fbbdd2e7d814d9bb99/preview/agroalimentario.html)
+[ABRIR LA PROPUESTA ACTUALIZADA](https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/a5ecb668273df12bdc24b8080adcec20a4fb70e3/preview/implementacion-agroalimentaria-v0.3.html)
 
-Esta copia identifica la versión web 0.2 y queda fijada al commit 1901bf026087bb519f2970fbbdd2e7d814d9bb99.
-Mercados de destino y selector del formulario, en este orden: Canadá, Estados Unidos, México, Unión Europea, China, Japón, Corea del Sur y Centroamérica.
-Se mantiene la opción inicial “Por definir o varios destinos”. Las traducciones al inglés se actualizaron.
+Fuente de la copia compartida: a5ecb668273df12bdc24b8080adcec20a4fb70e3.
+[Solicitud de revisión](https://github.com/montielsilva-beep/am-consultores-web/pull/2).
 
-El enlace es abierto para quienes lo reciban. No contiene contratos, precios ni expedientes internos. Usa HTML Preview para GitHub.
-El enlace anterior conserva la versión web 0.1 para trazabilidad.
-[Solicitud de revisión](https://github.com/montielsilva-beep/am-consultores-web/pull/1).
+Amplía el alcance a todo el sistema agroalimentario, debida diligencia y sectores forestal, agroforestal y silvícola. Añade motivación y conserva diseño y orden. La copia puede compartirse como las versiones anteriores y no contiene expedientes ni documentos internos.
 
-La valoración favorable comunicada por dirección no se interpreta como autorización de lanzamiento. Se mantiene la revisión temporal previa a publicación en el dominio oficial.
+La versión publicada en el dominio oficial sigue siendo la oferta anterior hasta aprobar esta actualización. El historial conserva los enlaces temporales previos.

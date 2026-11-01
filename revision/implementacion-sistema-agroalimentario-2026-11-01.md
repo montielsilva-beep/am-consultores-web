@@ -34,3 +34,7 @@ El alcance ampliado requiere adaptar matrices e instrumentos por sistema, operac
 
 ## Comprobaciones realizadas
 Estructura de secciones, clases e identificadores comparada con la versión publicada; estilos sin modificaciones. Verificados alcance, ausencia de limitación a café/cacao en la página, sectores forestal/agroforestal/silvícola, debida diligencia, selector por sistemas, metadatos y orden de ocho mercados. Sintaxis JS y ejecución ES/EN/ES, consulta institucional con sector forestal y regresión de la consulta de portada, sin enviar correos.
+
+## Revisión en navegador
+Vista de 1280 y 390 px sin desbordamiento horizontal en main. Menú y traducciones de nombre, servicios, motivación y sistemas comprobados. Consulta institucional seleccionada con sistema agroforestal y asunto Debida diligencia. No se enviaron mensajes.
+[HTML temporal de fuente fija](https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/a5ecb668273df12bdc24b8080adcec20a4fb70e3/preview/implementacion-agroalimentaria-v0.3.html).
