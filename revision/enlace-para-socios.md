@@ -1,3 +1,12 @@
+# Enlace vigente de revisión · versión web 0.5
+Fecha: 2026-11-01. Denominación: Unidad de Implementación Agroalimentaria y Forestal.
+
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/montielsilva-beep/am-consultores-web/d8c747a9427a144b0825798681f367408ad56048/preview/implementacion-agroalimentaria-v0.5.html
+
+Encabezado, metadatos, inicio y traducción inglesa actualizados. El alcance y el diseño se conservan. Pendiente de aprobación para publicación.
+
+## Antecedente conservado
+
 # Enlace vigente de revisión · versión web 0.4
 Fecha: 2026-11-01. Estado: pendiente de aprobación para publicación.
 
